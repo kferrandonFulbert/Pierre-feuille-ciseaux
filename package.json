@@ -1,0 +1,22 @@
+{
+  "name": "pierre",
+  "version": "1.0.0",
+  "description": "pierre feuille ciseaux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pierre",
+    "feuille",
+    "ciseaux",
+    "game",
+    "gaming"
+  ],
+  "author": "kevin ferrandon <kevin.ferrandon@lyceefulbert.fr> (https://btssio-fulbert.fr/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prompt": "^1.3.0"
+  }
+}
